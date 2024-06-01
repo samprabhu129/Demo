@@ -1,2 +1,16 @@
 hello 
 world
+$git status
+$git commit -m""
+$git config --global user.email""
+$git config --global user.name ""
+$git congig --list
+$git remote add origin #copy 
+$git push origin main
+
+$git pull
+$git checkout -b "feature/demo-project"
+$git push
+$git push --set-upstream origin feature/demo-project
+$git checkout main
+$git pull
